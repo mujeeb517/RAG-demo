@@ -1,5 +1,6 @@
-## Vector search using Postgres vector plugin 
-#### Supabase with pgvector plugin
+## RAG Demo 
+#### Vector search using Supabase with pgvector plugin
+#### 
 
 ``` npm install ```
 
